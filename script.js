@@ -19,7 +19,6 @@
       "hero_title_1": "ADRENALINI",
       "hero_title_2": "HİSS ET",
       "hero_sub": "SODI (Fransa) kartları, 802 metrlik beynəlxalq trass və trasa baxışlı kafe — Bakının mərkəzində unudulmaz komanda təcrübəsi.",
-      "hero_book": "Yarışını sifariş et",
       "hero_explore": "Kartları gör",
       "stat_track": "Trass uzunluğu",
       "stat_group": "Qrup tutumu",
@@ -33,7 +32,7 @@
       "feat2_t": "Tam təhlükəsizlik",
       "feat2_d": "Rəsmi qoruyucu avadanlıq (kombinezon, şlem, balaklava, əlcək), təlim brifinqi və trass nəzarəti.",
       "feat3_t": "Hər səviyyə üçün",
-      "feat3_d": "Standart, drift və 2 nəfərlik kartlar. Minimum yaş 10, minimum boy 110 sm.",
+      "feat3_d": "Tək nəfərlik RT10, 2 nəfərlik kart və peşəkarlar üçün Sodi RX. Minimum yaş 10, minimum boy 110 sm.",
       "feat4_t": "Sodi RX",
       "feat4_d": "Təcrübəli sürücülər üçün yüksək performanslı SODI RX. Əvvəlcə digər kartlarda nəticə göstərin.",
       "feat5_t": "802 m beynəlxalq trass",
@@ -43,11 +42,8 @@
       "fleet_kicker": "Maşınlar",
       "fleet_title": "Maşınını seç",
       "fleet_lead": "SODI (Fransa) kartları — sürət, təhlükəsizlik və keyfiyyət balansı ilə seçilir.",
-      "kart1_tag": "200CC · 10+ yaş",
-      "kart1_t": "Drift Maşını",
-      "kart1_d": "200CC · 6 at gücü. Drift həvəskarları üçün əyləncəli və idarəolunan sürüş — 10 yaşdan yuxarı.",
       "kart2_tag": "270CC · Ən populyar",
-      "kart2_t": "Standart Kart",
+      "kart2_t": "SODI RT10",
       "kart2_d": "270CC · 9 at gücü, 60 km/saat. İmza tək nəfərlik kartımız — tam təchizat və təlim daxildir. Min. yaş 10, min. boy 110 sm.",
       "kart3_tag": "Peşəkar",
       "kart3_d": "Təcrübəli sürücülər üçün yüksək performanslı SODI RX. Əvvəlcə digər kartlarda nəticənizi göstərməlisiniz.",
@@ -75,11 +71,7 @@
       "pr_twin_t": "2 nəfərlik kart",
       "pr_twin_f1": "2 nəfər yanaşı əyləşir",
       "pr_twin_f2": "Əcnəbilər üçün 59 AZN",
-      "pr_kids_badge": "10+ yaş",
-      "pr_kids_t": "Drift Maşını",
       "pr_dur2": "10 dəqiqə",
-      "pr_kids_f1": "Əyləncəli drift sürüşü",
-      "pr_kids_f2": "10 yaşdan yuxarı",
       "pr_sodi_badge": "Peşəkar",
       "pr_sodi_f1": "Yalnız təcrübəli sürücülər üçün",
       "pr_sodi_f2": "Digər kartlarda nəticə tələb olunur",
@@ -128,38 +120,12 @@
       "contact_hours_t": "İş saatları",
       "contact_hours": "Hər gün 11:00–23:00",
       "map_dir": "Xəritədə aç",
-      "contact_form_t": "Mesaj göndər",
-      "f_name": "Ad və soyad",
-      "f_phone": "Telefon",
-      "f_email": "E-poçt",
-      "f_message": "Mesaj",
-      "f_send": "Mesajı göndər",
-      "f_thanks": "Təşəkkürlər! Tezliklə sizinlə əlaqə saxlayacağıq.",
       "footer_tag": "Baku City Karting — komanda ruhu burada yarışa çevrilir. Bakının mərkəzində peşəkar kartinq.",
       "footer_explore": "Kəşf et",
       "footer_visit": "Ziyarət",
       "footer_ready": "Yarışa hazırsan?",
       "footer_rules": "Təhlükəsizlik qaydaları",
-      "footer_school": "Drift",
       "footer_rights": "Bütün hüquqlar qorunur.",
-      "book_kicker": "Rezervasiya",
-      "book_title": "Yarışını sifariş et",
-      "book_sub": "Məlumatları doldurun, biz telefonla təsdiqləyəcəyik.",
-      "f_date": "Tarix",
-      "f_time": "Uyğun vaxt",
-      "f_people": "Sürücülər",
-      "f_kart": "Kart növü",
-      "f_notes": "Qeydlər (istəyə bağlı)",
-      "opt_single": "Standart Kart (270CC)",
-      "opt_twin": "2 nəfərlik Kart (390CC)",
-      "opt_kids": "Drift Maşını (200CC)",
-      "opt_sodi": "Sodi RX",
-      "book_confirm": "Rezervasiyanı təsdiqlə",
-      "err_required": "Bu sahə tələb olunur",
-      "err_phone": "Düzgün telefon nömrəsi daxil edin",
-      "book_done_t": "Startdasan! 🏁",
-      "book_done_d": "Sorğunuzu aldıq. Komandamız tezliklə təsdiq üçün sizə zəng edəcək.",
-      "book_done_close": "Hazır",
       "fab_book": "Yazıl"
 },
     ru: {
@@ -175,7 +141,6 @@
       "hero_title_1": "ПОЧУВСТВУЙ",
       "hero_title_2": "АДРЕНАЛИН",
       "hero_sub": "Карты SODI (Франция), международная трасса 802 м и кафе с видом на трассу — незабываемый командный опыт в центре Баку.",
-      "hero_book": "Забронировать заезд",
       "hero_explore": "Смотреть карты",
       "stat_track": "Длина трассы",
       "stat_group": "Вместимость группы",
@@ -189,7 +154,7 @@
       "feat2_t": "Полная безопасность",
       "feat2_d": "Официальная защитная экипировка (комбинезон, шлем, балаклава, перчатки), инструктаж и контроль трассы.",
       "feat3_t": "Для любого уровня",
-      "feat3_d": "Стандартные, дрифт и двухместные карты. Мин. возраст 10, мин. рост 110 см.",
+      "feat3_d": "Одноместный RT10, двухместный карт и Sodi RX для профи. Мин. возраст 10, мин. рост 110 см.",
       "feat4_t": "Sodi RX",
       "feat4_d": "Высокопроизводительный SODI RX для опытных водителей. Сначала покажите результат на других картах.",
       "feat5_t": "Трасса 802 м",
@@ -199,11 +164,8 @@
       "fleet_kicker": "Машины",
       "fleet_title": "Выбери свою машину",
       "fleet_lead": "Карты SODI (Франция) — баланс скорости, безопасности и качества.",
-      "kart1_tag": "200CC · 10+ лет",
-      "kart1_t": "Дрифт-кар",
-      "kart1_d": "200CC · 6 л.с. Весёлая и управляемая езда для любителей дрифта — от 10 лет.",
       "kart2_tag": "270CC · Популярный",
-      "kart2_t": "Стандартный карт",
+      "kart2_t": "SODI RT10",
       "kart2_d": "270CC · 9 л.с., 60 км/ч. Наш фирменный одноместный карт — экипировка и инструктаж включены. Мин. возраст 10, рост 110 см.",
       "kart3_tag": "Профи",
       "kart3_d": "Высокопроизводительный SODI RX для опытных водителей. Сначала покажите результат на других картах.",
@@ -231,11 +193,7 @@
       "pr_twin_t": "Двухместный карт",
       "pr_twin_f1": "Двое рядом",
       "pr_twin_f2": "Для иностранцев 59 AZN",
-      "pr_kids_badge": "10+ лет",
-      "pr_kids_t": "Дрифт-кар",
       "pr_dur2": "10 минут",
-      "pr_kids_f1": "Весёлая дрифт-езда",
-      "pr_kids_f2": "От 10 лет",
       "pr_sodi_badge": "Профи",
       "pr_sodi_f1": "Только для опытных водителей",
       "pr_sodi_f2": "Нужен результат на других картах",
@@ -284,38 +242,12 @@
       "contact_hours_t": "Часы работы",
       "contact_hours": "Ежедневно 11:00–23:00",
       "map_dir": "Открыть на карте",
-      "contact_form_t": "Отправить сообщение",
-      "f_name": "Имя и фамилия",
-      "f_phone": "Телефон",
-      "f_email": "Эл. почта",
-      "f_message": "Сообщение",
-      "f_send": "Отправить",
-      "f_thanks": "Спасибо! Мы скоро свяжемся с вами.",
       "footer_tag": "Baku City Karting — командный дух превращается в гонку. Профессиональный картинг в центре Баку.",
       "footer_explore": "Обзор",
       "footer_visit": "Визит",
       "footer_ready": "Готов гонять?",
       "footer_rules": "Правила безопасности",
-      "footer_school": "Дрифт",
       "footer_rights": "Все права защищены.",
-      "book_kicker": "Бронирование",
-      "book_title": "Забронируй заезд",
-      "book_sub": "Заполните данные, и мы подтвердим по телефону.",
-      "f_date": "Дата",
-      "f_time": "Удобное время",
-      "f_people": "Гонщики",
-      "f_kart": "Тип карта",
-      "f_notes": "Примечания (необязательно)",
-      "opt_single": "Стандартный карт (270CC)",
-      "opt_twin": "Двухместный карт (390CC)",
-      "opt_kids": "Дрифт-кар (200CC)",
-      "opt_sodi": "Sodi RX",
-      "book_confirm": "Подтвердить бронь",
-      "err_required": "Обязательное поле",
-      "err_phone": "Введите корректный номер",
-      "book_done_t": "Ты на старте! 🏁",
-      "book_done_d": "Мы получили заявку. Наша команда скоро позвонит для подтверждения.",
-      "book_done_close": "Готово",
       "fab_book": "Бронь"
 },
     en: {
@@ -331,7 +263,6 @@
       "hero_title_1": "FEEL THE",
       "hero_title_2": "ADRENALINE",
       "hero_sub": "SODI (France) karts, an 802-metre international track and a track-view café — an unforgettable team experience in the heart of Baku.",
-      "hero_book": "Book Your Race",
       "hero_explore": "See the Karts",
       "stat_track": "Track length",
       "stat_group": "Group capacity",
@@ -345,7 +276,7 @@
       "feat2_t": "Full Safety",
       "feat2_d": "Official protective gear (suit, helmet, balaclava, gloves), a safety briefing and full track control.",
       "feat3_t": "For Every Level",
-      "feat3_d": "Standard, drift and 2-person karts. Minimum age 10, minimum height 110 cm.",
+      "feat3_d": "Single-seat RT10, the 2-person kart and Sodi RX for pros. Minimum age 10, minimum height 110 cm.",
       "feat4_t": "Sodi RX",
       "feat4_d": "High-performance SODI RX for experienced drivers. Prove your times on our other karts first.",
       "feat5_t": "802 m International Track",
@@ -355,11 +286,8 @@
       "fleet_kicker": "The Machines",
       "fleet_title": "Choose your machine",
       "fleet_lead": "SODI (France) karts — chosen for their balance of speed, safety and quality.",
-      "kart1_tag": "200CC · Ages 10+",
-      "kart1_t": "Drift Car",
-      "kart1_d": "200CC · 6 HP. A fun, controllable drive for drift lovers — ages 10 and up.",
       "kart2_tag": "270CC · Most Popular",
-      "kart2_t": "Standard Kart",
+      "kart2_t": "SODI RT10",
       "kart2_d": "270CC · 9 HP, 60 km/h. Our signature single-seater — full gear and briefing included. Min age 10, height 110 cm.",
       "kart3_tag": "Pro Only",
       "kart3_d": "High-performance SODI RX for experienced drivers. You must first prove your times on our other karts.",
@@ -387,11 +315,7 @@
       "pr_twin_t": "2-Person Kart",
       "pr_twin_f1": "Two people side by side",
       "pr_twin_f2": "59 AZN for foreign guests",
-      "pr_kids_badge": "Ages 10+",
-      "pr_kids_t": "Drift Car",
       "pr_dur2": "10 minutes",
-      "pr_kids_f1": "Fun drift driving",
-      "pr_kids_f2": "Ages 10 and up",
       "pr_sodi_badge": "Pro Only",
       "pr_sodi_f1": "Experienced drivers only",
       "pr_sodi_f2": "Requires proven lap times",
@@ -440,38 +364,12 @@
       "contact_hours_t": "Opening hours",
       "contact_hours": "Every day 11:00–23:00",
       "map_dir": "Get directions",
-      "contact_form_t": "Send a message",
-      "f_name": "Full name",
-      "f_phone": "Phone",
-      "f_email": "Email",
-      "f_message": "Message",
-      "f_send": "Send Message",
-      "f_thanks": "Thanks! We'll get back to you shortly.",
       "footer_tag": "Baku City Karting — where team spirit becomes a race. Professional karting in central Baku.",
       "footer_explore": "Explore",
       "footer_visit": "Visit",
       "footer_ready": "Ready to race?",
       "footer_rules": "Safety Rules",
-      "footer_school": "Drift",
       "footer_rights": "All rights reserved.",
-      "book_kicker": "Reservation",
-      "book_title": "Book your race",
-      "book_sub": "Fill in the details and we'll confirm your slot by phone.",
-      "f_date": "Date",
-      "f_time": "Preferred time",
-      "f_people": "Racers",
-      "f_kart": "Kart type",
-      "f_notes": "Notes (optional)",
-      "opt_single": "Standard Kart (270CC)",
-      "opt_twin": "2-Person Kart (390CC)",
-      "opt_kids": "Drift Car (200CC)",
-      "opt_sodi": "Sodi RX",
-      "book_confirm": "Confirm Booking",
-      "err_required": "This field is required",
-      "err_phone": "Enter a valid phone number",
-      "book_done_t": "You're on the grid! 🏁",
-      "book_done_d": "We've received your request. Our team will call you shortly to confirm.",
-      "book_done_close": "Done",
       "fab_book": "Book"
 },
   };
@@ -623,90 +521,6 @@
       });
     }, { threshold: 0.6 });
     counters.forEach((c) => cObs.observe(c));
-
-    /* -------- BOOKING MODAL -------- */
-    const modal = document.getElementById("bookModal");
-    const bookForm = document.getElementById("bookForm");
-    const bookDone = document.getElementById("bookDone");
-    let lastFocus = null;
-    const openModal = () => {
-      lastFocus = document.activeElement;
-      modal.classList.add("open");
-      modal.setAttribute("aria-hidden", "false");
-      document.body.style.overflow = "hidden";
-      bookForm.hidden = false; bookDone.hidden = true;
-      const first = document.getElementById("bName");
-      setTimeout(() => first && first.focus(), 60);
-      // default date = today
-      const d = document.getElementById("bDate");
-      if (d && !d.value) d.value = new Date().toISOString().split("T")[0];
-    };
-    const closeModal = () => {
-      modal.classList.remove("open");
-      modal.setAttribute("aria-hidden", "true");
-      document.body.style.overflow = "";
-      if (lastFocus) lastFocus.focus();
-    };
-    document.querySelectorAll("[data-book]").forEach((b) => b.addEventListener("click", openModal));
-    modal.querySelectorAll("[data-close]").forEach((b) => b.addEventListener("click", closeModal));
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && modal.classList.contains("open")) closeModal();
-    });
-
-    // validation helpers
-    const markInvalid = (input, bad) => {
-      input.closest(".field").classList.toggle("invalid", bad);
-    };
-    const validPhone = (v) => /[0-9]{6,}/.test(v.replace(/[^0-9]/g, ""));
-
-    // booking submit
-    bookForm.addEventListener("submit", (e) => {
-      e.preventDefault();
-      let ok = true;
-      const name = document.getElementById("bName");
-      const phone = document.getElementById("bPhone");
-      const date = document.getElementById("bDate");
-      const time = document.getElementById("bTime");
-      [name, date, time].forEach((f) => { const bad = !f.value.trim(); markInvalid(f, bad); if (bad) ok = false; });
-      const pbad = !validPhone(phone.value); markInvalid(phone, pbad); if (pbad) ok = false;
-      if (!ok) { bookForm.querySelector(".field.invalid input, .field.invalid select")?.focus(); return; }
-
-      const btn = document.getElementById("bookSubmit");
-      const orig = btn.textContent;
-      btn.disabled = true; btn.textContent = "…";
-      setTimeout(() => {
-        btn.disabled = false; btn.textContent = orig;
-        bookForm.hidden = true; bookDone.hidden = false;
-        bookForm.reset();
-      }, 900);
-    });
-    // clear invalid on input
-    bookForm.querySelectorAll("input,select").forEach((f) =>
-      f.addEventListener("input", () => f.closest(".field").classList.remove("invalid"))
-    );
-
-    /* -------- QUICK CONTACT FORM -------- */
-    const quick = document.getElementById("quickForm");
-    quick.addEventListener("submit", (e) => {
-      e.preventDefault();
-      const name = document.getElementById("cName");
-      const phone = document.getElementById("cPhone");
-      let ok = true;
-      [name, phone].forEach((f) => { const bad = !f.value.trim(); markInvalid(f, bad); if (bad) ok = false; });
-      if (!ok) return;
-      const success = document.getElementById("quickSuccess");
-      const btn = quick.querySelector("button[type=submit]");
-      btn.disabled = true;
-      setTimeout(() => {
-        btn.disabled = false;
-        success.hidden = false;
-        quick.reset();
-        setTimeout(() => (success.hidden = true), 5000);
-      }, 700);
-    });
-    quick.querySelectorAll("input").forEach((f) =>
-      f.addEventListener("input", () => f.closest(".field").classList.remove("invalid"))
-    );
 
     // subtle card tilt on pointer (desktop)
     if (window.matchMedia("(hover:hover) and (pointer:fine)").matches) {
